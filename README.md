@@ -13,7 +13,7 @@ GCS 的用户界面和操作系统集成依赖于richardwilke的另一个项目 
 
 ---
 
-### 英文原文 (Original English Text)
+### 原仓库说明 (Original English Text)
 
 # GURPS Character Sheet
 
